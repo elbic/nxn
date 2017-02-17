@@ -1,0 +1,2 @@
+# nxn
+Determinante de NxN
